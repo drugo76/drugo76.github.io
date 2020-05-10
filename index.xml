@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 05 May 2020 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 06:14:34 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Landscapes</title>
-      <link>/portfolio/landscapes/</link>
-      <pubDate>Tue, 05 May 2020 22:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/landscapes/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Buildings</title>
@@ -27,13 +18,30 @@
       <pubDate>Sun, 12 May 2019 06:14:34 +0000</pubDate>
       
       <guid>/portfolio/buildings/</guid>
-      <description>   I m g 1067
+      <description>   I m g 1065
+      I m g 1067
       I m g 1069
       I m g 1077
       I m g 1229
       I m g 2043
       I m g 3586
      </description>
+    </item>
+    
+    <item>
+      <title>Landscapes</title>
+      <link>/portfolio/landscapes/</link>
+      <pubDate>Sun, 12 May 2019 06:14:34 +0000</pubDate>
+      
+      <guid>/portfolio/landscapes/</guid>
+      <description>I m g 0556
+      I m g 0829
+      I m g 0885
+      I m g 1038
+      I m g 1126
+      I m g 1142
+      I m g 9438
+      I m g 9472</description>
     </item>
     
     <item>

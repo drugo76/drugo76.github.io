@@ -6,6 +6,10 @@ html {
 	opacity: .5;
 }
 
+.thin {
+    min-width: 1024px;
+}
+
 #site-footer {
 	position: absolute;
     bottom: 0;
