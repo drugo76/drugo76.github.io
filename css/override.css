@@ -1,18 +1,12 @@
-html {
-	background: #000000;
+body {
+	background-color:#f4f4f4;
 }
 
-.bg-img {
-	opacity: .5;
+#main {
+    max-width: 1022px;
 }
-
-.thin {
-    min-width: 1024px;
-}
-
-#site-footer {
-	position: absolute;
-    bottom: 0;
-    max-width: 100%;
-    height: 60px;	
+.c-article {
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 1px 4px 0 rgba(60, 64, 67, 0.30);
 }
