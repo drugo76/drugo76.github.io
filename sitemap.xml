@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/california/</loc>
+    <lastmod>2017-08-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/el-cap/</loc>
+    <lastmod>2017-08-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/landscape/</loc>
     <lastmod>2017-08-22T11:00:00+00:00</lastmod>
   </url>
   
@@ -13,7 +23,27 @@
   </url>
   
   <url>
+    <loc>/tags/mountain/</loc>
+    <lastmod>2017-08-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
+    <lastmod>2017-08-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-08-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/travel/</loc>
+    <lastmod>2017-08-22T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/yosemite/</loc>
     <lastmod>2017-08-22T11:00:00+00:00</lastmod>
   </url>
   
@@ -29,10 +59,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

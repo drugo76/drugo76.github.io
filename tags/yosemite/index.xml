@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yosemite on Leo&#39;s blog</title>
+    <link>/tags/yosemite/</link>
+    <description>Recent content in yosemite on Leo&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 leonardo cintio</copyright>
+    <lastBuildDate>Tue, 22 Aug 2017 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/yosemite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Cap</title>
+      <link>/posts/el-cap/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/posts/el-cap/</guid>
+      <description>This theme is magnified like the image of Medium.
+The jQuery plugin called Zoom.js is used.
+No Zoom.</description>
+    </item>
+    
+  </channel>
+</rss>

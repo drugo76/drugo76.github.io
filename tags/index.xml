@@ -7,9 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 leonardo cintio</copyright>
+    <lastBuildDate>Tue, 22 Aug 2017 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>california</title>
+      <link>/tags/california/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/california/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscape</title>
+      <link>/tags/landscape/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mountain</title>
+      <link>/tags/mountain/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/mountain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>/tags/travel/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yosemite</title>
+      <link>/tags/yosemite/</link>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
+      
+      <guid>/tags/yosemite/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
