@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Image Zoom Sample</title>
+      <title>El Cap</title>
       <link>/posts/image-zoom-sample/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>/posts/image-zoom-sample/</guid>
       <description>This theme is magnified like the image of Medium.
