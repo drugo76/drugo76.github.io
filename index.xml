@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 leonardo cintio</copyright>
-    <lastBuildDate>Tue, 22 Aug 2017 13:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>El Cap</title>
       <link>/posts/el-cap/</link>
-      <pubDate>Tue, 22 Aug 2017 13:00:00 +0200</pubDate>
+      <pubDate>Tue, 22 Aug 2017 11:00:00 +0000</pubDate>
       
       <guid>/posts/el-cap/</guid>
       <description>This theme is magnified like the image of Medium.
