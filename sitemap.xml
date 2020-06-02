@@ -3,26 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2017-08-21T12:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/mirror-lake/</loc>
+    <lastmod>2017-08-21T12:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2017-08-21T12:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/el-cap/</loc>
     <lastmod>2017-04-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2017-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/posts/mirror-lake/</loc>
   </url>
   
   <url>
